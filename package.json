@@ -1,7 +1,8 @@
 {
-  "name": "dingding",
-  "version": "0.0.0",
+  "name": "dingding-sdk",
+  "version": "0.0.2",
   "main": "./lib/index.js",
+  "private":false,
   "author": "wangyongcun <1006008051@qq.com>",
   "license": "MIT",
   "devDependencies": {

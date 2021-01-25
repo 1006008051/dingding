@@ -5,13 +5,13 @@
 install
 
 ```
-npm install dingding
+npm install dingding-sdk
 ```
 
 usage
 
 ```
-import dingding from "dingding"
+import dingding from "dingding-sdk"
 
 实例化sdk类
 const dd = new dingding(appKey, appSecret)
